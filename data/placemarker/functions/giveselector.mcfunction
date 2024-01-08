@@ -1,0 +1,2 @@
+give @p allay_spawn_egg{EntityTag:{id:marker,Tags:["selector1"]},display:{Name:'[{"text":"Selection1","italic":false}]'}} 1
+give @p allay_spawn_egg{EntityTag:{id:marker,Tags:["selector2"]},display:{Name:'[{"text":"Selection2","italic":false}]'}} 1
